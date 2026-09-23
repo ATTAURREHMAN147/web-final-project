@@ -1,0 +1,7 @@
+
+body { font-family: Arial, Helvetica, sans-serif; }
+html { scroll-behavior: smooth; }
+.gradient-text { background: linear-gradient(90deg,#2563eb,#7c3aed); -webkit-background-clip:text; background-clip:text; color:transparent; }
+.card-hover { transition: .25s ease; }
+.card-hover:hover { transform: translateY(-6px); box-shadow: 0 18px 40px rgba(15,23,42,.12); }
+.hero-bg { background: radial-gradient(circle at 80% 20%, rgba(59,130,246,.15), transparent 35%), #f8fafc; }
